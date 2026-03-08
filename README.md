@@ -78,6 +78,9 @@ The AI will analyze the image and automatically classify the hazard.
 AI Studio App Link:  
 https://ai.studio/apps/c129333c-ea53-4732-91ca-89e94c32b877
 
+PPT and Demo video link
+https://drive.google.com/drive/folders/1Ws8PZt0HkC4XHjHdPTC9LHBufDsm_v5I?usp=sharing
+
 ---
 
 ## Future Improvements
@@ -93,3 +96,5 @@ https://ai.studio/apps/c129333c-ea53-4732-91ca-89e94c32b877
 ## License
 
 This project was developed as part of a hackathon prototype.
+
+
